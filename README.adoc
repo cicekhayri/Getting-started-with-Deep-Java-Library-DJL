@@ -1,0 +1,6 @@
+= Getting started with Deep Java Library DJL 
+
+Read the tutorial here
+
+https://kodnito.com/posts/getting-started-with-deep-java-library-djl
+
